@@ -1,0 +1,11 @@
+postgres:
+  username: pg_user_yaml
+  password: pg_pass_yaml
+  hostname: pg_host_yaml
+  database: pg_db_yaml
+server:
+  host: host_yaml
+  port: 8080
+  ssl: true
+version: 3.14159
+unsigned: 65536

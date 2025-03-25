@@ -1,0 +1,15 @@
+{
+  "postgres": {
+    "username": "pg_user_json",
+    "password": "pg_pass_json",
+    "hostname": "pg_host_json",
+    "database": "pg_db_json"
+  },
+  "server": {
+    "host": "host_json",
+    "port": 8000,
+    "ssl": true
+  },
+  "version": 3.14159,
+  "unsigned": 65536
+}
